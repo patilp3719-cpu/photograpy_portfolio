@@ -12,13 +12,13 @@ A simple static photography portfolio website built with HTML and CSS. It showca
 
 ## Project Structure
 
-- `photogrphy.html` - Main webpage structure
-- `photography.css` - Styling and layout
+- `index.html` - Main webpage structure
+- `style.css` - Styling and layout
 - `assets/` - Project images and gallery photos
 
 ## Run Locally
 
-1. Open `photogrphy.html` in your browser directly, or
+1. Open `index.html` in your browser directly, or
 2. Serve the folder locally using a simple HTTP server:
 
 ```bash
@@ -37,6 +37,5 @@ http://localhost:8000
 - No build tools or dependencies are required.
 - Images are stored locally in the `assets` folder.
 
-## Author
-
-RVP Photography
+## VISIT
+https://patilp3719-cpu.github.io/photograpy_portfolio/
